@@ -1,0 +1,4 @@
+# Keep models directory but ignore saved models
+*.pth
+*.pt
+!.gitkeep

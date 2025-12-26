@@ -1,0 +1,3 @@
+# Keep results directory but ignore generated files
+*
+!.gitkeep
