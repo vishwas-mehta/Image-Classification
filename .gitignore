@@ -119,3 +119,16 @@ data/
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Additional Python
+*.pyc
+.Python
+
+# Logs and temp files
+logs/
+*.tmp
+*.temp
+
+# Model outputs
+checkpoints/
+*.onnx
