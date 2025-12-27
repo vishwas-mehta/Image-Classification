@@ -4,6 +4,9 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![CIFAR-10](https://img.shields.io/badge/Dataset-CIFAR--10-orange.svg)](https://www.cs.toronto.edu/~kriz/cifar.html)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
+
+> **Last Updated:** December 2024
 
 A comprehensive deep learning project implementing **Convolutional Neural Networks (CNNs)** for image classification on the **CIFAR-10** dataset. This project demonstrates CNN fundamentals, data augmentation, regularization techniques, and model comparison.
 
